@@ -1,7 +1,4 @@
 library('shiny')
-
-getwd()
-setwd("Documents/Senior Year/planets/Stat159-lab8")
 advertising <- read.csv("Advertising.csv")
 
 
